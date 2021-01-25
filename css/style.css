@@ -1,0 +1,36 @@
+.description {
+    font-weight: bold;
+    font-size: 18px;
+    text-align: right;
+}
+
+#headline {
+    color: gray;
+    font-size: 60px;
+    text-align: center;
+    font-family: oriya mn;
+}
+
+.image {
+    background-image: url("https://www.rd.com/wp-content/uploads/2019/05/American-shorthair-cat.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+.caption {
+    font-size: 20px;
+    font-style: italic;
+    display: block;
+    background-color: white;
+    margin-left: 20px;
+    padding: 10px;
+    position: relative;
+    top: 80%;
+    width: 15%;
+    opacity: 0.65;
+}
+
+.jumbotron {
+    background-color: #62959c !important;
+}
